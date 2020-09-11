@@ -14,6 +14,18 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 header{
     padding: 20px 35px;
     background-color: #39a6b2;
